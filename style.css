@@ -32,10 +32,28 @@ input{
 }
 
 button{
-    margin-left: 35%;
-    margin-bottom: 10px;
+    margin-left: 110px;
+    margin-bottom: 20px;
     margin-top: 10px;
     background: #EBE645;
     padding: 10px;
     border-radius: 5px;
+}
+
+.github{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.github a{
+    color: black;
+}
+
+.github p{
+    font-size: 12px;
+    font-style: italic;
+}
+
+ion-icon{
+    font-size: 50px;
 }
